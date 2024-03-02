@@ -61,4 +61,4 @@ RIMWORLD MODIFY - это уникальный проект, основанный
 
 ### Гифка
 
-<Image src="https://gif.guru/file/aHR0cHM6Ly90aHVtYnMuZ2Z5Y2F0LmNvbS9CcmVha2FibGVMZWFuSXRhbGlhbmJyb3duYmVhci1tYXgtMW1iLmdpZg.mp4" width="200px" height="200px">
+<Image src="https://thumbs.gfycat.com/BreakableLeanItalianbrownbear-max-1mb.gif" width="200px" height="200px">
