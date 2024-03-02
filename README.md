@@ -33,25 +33,18 @@ RIMWORLD MODIFY - это уникальный проект, основанный
 
 ## Ссылки
 
-- [Веб-сайт](https://example.com)
-- [Профиль в Facebook](https://www.facebook.com)
-- [Профиль в Twitter](https://twitter.com)
+- [Официальный веб-сайт RIMWORLD MODIFY](https://example.com)
+- [Группа ВКонтакте](https://m.vk.com/)
 
-## Кнопки
+## Поддержка
 
-### Кнопка 1
+<button content="Поддержать проект">
 
-[![Кнопка 1](https://your-image-url.com/button1.png)](https://example.com/button1)
+## Список будующих обновлений
 
-### Кнопка 2
-
-[![Кнопка 2](https://your-image-url.com/button2.png)](https://example.com/button2)
-
-## Список
-
-- Пункт 1
-- Пункт 2
-- Пункт 3
+- Что-то должно быть но нету
+- Что-то должно быть но нету
+- Что-то должно быть но нету
 
 ## Иллюстрации
 
