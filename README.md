@@ -57,8 +57,8 @@ RIMWORLD MODIFY - это уникальный проект, основанный
 
 ### Скриншот интерфейса
 
-![Скриншот интерфейса](https://your-image-url.com/screenshot.png)
+<Image src="https://www.cheathappens.com/graphics/reviews/screenshot1_Rimworld.jpg" width="200px" height="200px">
 
 ### Гифка
 
-![Гифка](https://your-image-url.com/gif.gif)
+<Image src="https://gif.guru/file/aHR0cHM6Ly90aHVtYnMuZ2Z5Y2F0LmNvbS9CcmVha2FibGVMZWFuSXRhbGlhbmJyb3duYmVhci1tYXgtMW1iLmdpZg.mp4" width="200px" height="200px">
