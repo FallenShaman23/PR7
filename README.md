@@ -1,6 +1,6 @@
 # RIMWORLD MODIFY
 
-<Image src="https://ltdfoto.ru/images/2024/03/02/kandinsky-download-1709364968305.png">
+<Image src="https://ltdfoto.ru/images/2024/03/02/kandinsky-download-1709364968305.png" width="200px" height="200px">
 
 Описание вашей вымышленной кампании, рассказывающее о ее целях и миссии. Можете также добавить ссылки на свой веб-сайт, профиль в социальных сетях или любые другие внешние ресурсы. 
 
