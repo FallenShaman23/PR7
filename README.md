@@ -1,6 +1,6 @@
 # BronBileta
 
-<Image src="https://postimg.cc/9wyhRMzH" width="200px" height="200px">
+<Image src="https://i.postimg.cc/D0MyN4T0/kandinsky-download-1710232368771.png" width="200px" height="200px">
 
 ## Описание приложения
 
@@ -40,7 +40,7 @@ BronBileta - это приложение по бронированию биле�
 
 ### Скриншот интерфейса
 
-<Image src="https://postimg.cc/WdFd9mD2" width="350px" height="200px">
-<Image src="https://postimg.cc/HrwgsjRw" width="350px" height="200px">
-<Image src="https://postimg.cc/F7ctD79M" width="350px" height="200px">
+<Image src="https://i.postimg.cc/zGpTG08R/1.png" width="200px" height="350px">
+<Image src="https://i.postimg.cc/jS9dc7hF/2.png" width="200px" height="350px">
+<Image src="https://i.postimg.cc/kXYnMbLg/3.png" width="200px" height="350px">
 
